@@ -1,0 +1,20 @@
+{
+  "name": "solid-react-query",
+  "version": "0.0.0",
+  "description": "Demo on how someone could use react-query on solid",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.3.8",
+    "vite-plugin-solid": "^2.0.0"
+  },
+  "dependencies": {
+    "react-query": "^3.18.1",
+    "solid-js": "^1.0.0"
+  },
+  "keywords": []
+}
