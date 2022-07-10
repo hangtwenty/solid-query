@@ -1,3 +1,7 @@
+ ⚠ Don't use this. Instead use: https://tanstack.com/query/v4
+ 
+----
+
 # prototype of how to use `react-query` with `solid.js`
 
 This is a fork of the [solid-react-query on CodeSandbox, by @wobsoriano](https://codesandbox.io/s/pqb49)
